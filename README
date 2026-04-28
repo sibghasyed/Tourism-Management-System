@@ -1,0 +1,26 @@
+# Tourism Management System
+
+## 📌 Description
+A web-based Tourism Management System designed to simplify travel planning and booking processes. The system allows users to explore tour packages, manage bookings, and access travel-related information efficiently. It helps automate tourism operations and reduce manual workload. 
+
+## ⚠️ Contribution Note
+This project was developed in collaboration with a senior developer. I contributed to specific features and assisted in implementing and understanding real-world application workflows.
+
+## 🚀 Features
+- User registration and login  
+- Browse and explore tour packages  
+- Tour booking and management  
+- Admin dashboard for managing users and packages  
+- Inquiry and complaint handling  
+
+👉 A typical tourism system helps users plan trips, book tours, and manage travel data in one place :contentReference[oaicite:0]{index=0}  
+
+## 🛠️ Tech Stack
+- PHP / Laravel  
+- HTML  
+- CSS  
+- JavaScript  
+- MySQL  
+
+## 👩‍💻 Author
+Sibgha
